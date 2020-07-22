@@ -1,0 +1,44 @@
+.container{
+	max-width: 300px;
+	margin: auto;
+	background-color: black;
+	padding: 15px;
+	border-radius: 15px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+	color: red;
+}
+
+h2{
+	color: red;
+}
+
+p{
+	color: white;
+}
+
+input{
+	display: block;
+	width: 100%;
+	padding: 5px;
+	box-sizing: border-box;
+	margin-bottom: 10px;
+}
+
+#adultos{
+	border-radius: 6px;
+}
+
+#criancas{
+	border-radius: 6px;
+}
+
+#duracao{
+	border-radius: 6px;
+}
+
+button{
+	border-radius: 6px;
+}
